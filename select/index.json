@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Californication",
+  "base_artist": "Red Hot Chili Peppers",
+  "createdAt": "2026-02-22T03:14:32.611999Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Californication",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/01_Californication_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Californication",
+      "artist": "QUE.",
+      "has_synced": false,
+      "path": "select/02_Californication_QUE..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Californication",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/03_Californication_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Californication (2014 Remaster)",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/04_Californication_(2014_Remaster)_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Californication",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/05_Californication_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Californication",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/06_Californication_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Californication (Live at Sxm Octane Virtual Accelerator Concert)",
+      "artist": "Solence",
+      "has_synced": true,
+      "path": "select/07_Californication_(Live_at_Sxm_Octane_Virtual_Accelerator_Concert)_Solence.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Californication",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/08_Californication_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Californication",
+      "artist": "Rockabye Baby!",
+      "has_synced": false,
+      "path": "select/09_Californication_Rockabye_Baby!.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Californication",
+      "artist": "Rockabye Baby!",
+      "has_synced": false,
+      "path": "select/10_Californication_Rockabye_Baby!.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Californication",
+      "artist": "First to Eleven",
+      "has_synced": true,
+      "path": "select/11_Californication_First_to_Eleven.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Californication (feat. Caroline Pennell)",
+      "artist": "Syn Cole feat. Caroline Pennell",
+      "has_synced": true,
+      "path": "select/12_Californication_(feat._Caroline_Pennell)_Syn_Cole_feat._Caroline_Pennell.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Californication",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": false,
+      "path": "select/pl_01_Californication_Red_Hot_Chili_Peppers.txt"
+    }
+  ]
+}
